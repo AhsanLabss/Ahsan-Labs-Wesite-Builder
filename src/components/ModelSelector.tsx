@@ -7,7 +7,7 @@ const FREE_MODELS = [
   // { id: 'openai/gpt-oss-20b:free', name: 'gpt-oss-20b', provider: 'OpenAI' },
   { id: 'google/gemini-2.0-flash-exp:free', name: 'Gemini-2.0-Flash', provider: 'Google' },
   { id: 'x-ai/grok-4-fast:free', name: 'Grok-4 Fast', provider: 'x-ai'},
-  // { id: 'nvidia/nemotron-nano-9b-v2:free', name: 'NemoTron', provider: 'Nvidia'},
+   { id: 'kwaipilot/kat-coder-pro:free', name: 'Kat Coder', provider: 'Kwaipilot'},
   // { id: 'openrouter/sonoma-sky-alpha', name: 'Sonoma Sky Alpha', provider: 'Openrouter' },
   // { id: 'openrouter/sonoma-dusk-alpha', name: 'Sonoma Dusk Alpha', provider: 'Openrouter' },
   // { id: 'agentica-org/deepcoder-14b-preview:free', name: 'Deepcoder', provider: 'Agentica' },
