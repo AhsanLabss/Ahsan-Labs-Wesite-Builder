@@ -182,7 +182,7 @@ Return the raw HTML file content as the final response. No Markdown, no explanat
                 content: fullPrompt
               }
             ],
-            max_tokens: 8000,
+            max_tokens: 5000,
             temperature: 0.6
           })
         });
